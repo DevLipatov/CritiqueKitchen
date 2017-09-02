@@ -9,5 +9,7 @@ Backend technologies:
 - logback
 
 Database - postgreSql
+
 Frontend - angular
+
 Servlet container - Tomcat
